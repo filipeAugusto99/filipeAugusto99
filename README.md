@@ -1,7 +1,7 @@
 ### Hi there! I'm Filipe Augusto 👋👋
 
 - I’m currently studing programming, specifically, front-end part.
-- I’m currently learning react to complete my studies.
+- I’m currently learning React with Next.js to complete my studies.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeAugusto99&show_icons=true&theme=tokyonight)
 
